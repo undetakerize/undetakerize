@@ -3,14 +3,14 @@
 
 ```yaml
 {
-name: Adi Hadiansyah
-located_in: Bandung, Indonesia
-current_job: Backend Developer
+name: "Adi Hadiansyah"
+located_in: "Bandung, Indonesia"
+current_job: "Backend Developer"
 education:
   [
     "Bachelor's in Informatics Engineering",
   ]
-company: BTS.id (2021 - Present)
+company: "BTS.id (2021 - Present)"
 fields_of_interests:
   [
     "Web Development",
