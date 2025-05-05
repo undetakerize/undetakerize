@@ -65,6 +65,7 @@ hobbies: ["Gaming", "Film", "Editor", "Comedy"]
 
 ##
 
+<!-- Spotify Badge -->
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=vswhxlcwnraho2aedlc5q32em&redirect=true">
     <img
@@ -74,4 +75,12 @@ hobbies: ["Gaming", "Film", "Editor", "Comedy"]
   </a>
 </p>
 
-
+<!-- Discord Badge -->
+<p align="center">
+  <a href="https://discord.com/users/325981344389660683">
+    <img
+      src="https://lanyard-profile-readme.vercel.app/api/325981344389660683?theme=dark&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...&hideSpotify=true&hideStatus=false"
+      alt="Discord Presence"
+    />
+  </a>
+</p>
