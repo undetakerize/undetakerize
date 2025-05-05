@@ -2,6 +2,7 @@
 <h2> 👨🏻‍💻HTTP:GET/&nbsp;api/profile</h2>
 
 ```yaml
+{
 name: Adi Hadiansyah
 located_in: Bandung, Indonesia
 current_job: Backend Developer
@@ -26,6 +27,7 @@ technical_background:
   
 currently_learning: ["ASP .NET Core , Nest.JS , Fullstack"]
 hobbies: ["Gaming", "Film", "Editor", "Comedy"]
+}
 ```
 ---
 
