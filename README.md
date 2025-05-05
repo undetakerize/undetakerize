@@ -25,7 +25,6 @@ technical_background:
   ]
   
 currently_learning: ["ASP .NET Core , Nest.JS , Fullstack"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Film", "Editor", "Comedy"]
 ```
 ---
